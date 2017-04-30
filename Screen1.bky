@@ -1,0 +1,133 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="1" collapsed="true" x="11" y="-71">
+    <mutation component_type="ImageSprite" instance_name="jacksonville" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">jacksonville</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="2" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="3">
+            <field name="TEXT">Screen5</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="4" x="0" y="-45">
+    <mutation component_type="ImageSprite" instance_name="charleston" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">charleston</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="5" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="6">
+            <field name="TEXT">Screen6</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="10" collapsed="true" x="-3" y="12">
+    <mutation component_type="ImageSprite" instance_name="daytona_beach" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">daytona_beach</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="11" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="12">
+            <field name="TEXT">Screen8</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="7" x="522" y="4">
+    <mutation component_type="ImageSprite" instance_name="okeechobee" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">okeechobee</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="8" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="9">
+            <field name="TEXT">Screen7</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="13" collapsed="true" x="6" y="33">
+    <mutation component_type="ImageSprite" instance_name="petersburgo" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">petersburgo</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="14" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="15">
+            <field name="TEXT">Screen9</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="16" x="4" y="62">
+    <mutation component_type="ImageSprite" instance_name="pcayune" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">pcayune</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="17" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="18">
+            <field name="TEXT">Screen12</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="19" collapsed="true" x="11" y="90">
+    <mutation component_type="ImageSprite" instance_name="myrtle_beach" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">myrtle_beach</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="20" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="21">
+            <field name="TEXT">Screen2</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="25" collapsed="true" x="18" y="155">
+    <mutation component_type="ImageSprite" instance_name="westpalmbeach" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">westpalmbeach</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="26" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="27">
+            <field name="TEXT">Screen11</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="28" collapsed="true" x="25" y="181">
+    <mutation component_type="ImageSprite" instance_name="orlando" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">orlando</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="29" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="30">
+            <field name="TEXT">Screen4</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="22" x="309" y="204">
+    <mutation component_type="ImageSprite" instance_name="everglades" event_name="Touched"></mutation>
+    <field name="COMPONENT_SELECTOR">everglades</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="23" inline="false">
+        <value name="SCREEN">
+          <block type="text" id="24">
+            <field name="TEXT">Screen3</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="159" language-version="20"></yacodeblocks>
+</xml>
